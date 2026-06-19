@@ -1,5 +1,5 @@
 # 🚀 Cloud Native DevOps Pipeline for Employee API
-Jenkins • Docker • Kubernetes • Prometheus • Grafana
+• Jenkins • Docker • Kubernetes • Prometheus • Grafana
 
 ## 📌 Project Overview
 
